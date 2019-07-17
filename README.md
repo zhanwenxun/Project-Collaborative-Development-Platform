@@ -1,49 +1,28 @@
-# master记录
-
-|   时间    | 备注                                 |
-| :-------: | :----------------------------------- |
-| 2019.5.24 | 《软件分析设计说明书》加入“参考文献” |
-| 2019.6.10 | 项目整合，用户、团队、会议整合完毕   |
-| 2019.6.14 | 提交《中期文档》                     |
-| 2019.6.16 | 团队、会议结束                       |
-| 2019.6.16 | 项目整合，项目模块整合完毕           |
-| 2019.6.17 | 项目整合完毕                         |
-| 2019.6.18 | 加入代码文件比较功能                 |
-| 2019.6.19 | 加入代码整合、项目文件权限管理功能   |
-| 2019.6.19 | 项目所有功能模块完成，项目结束       |
-| 2019.6.28 | 上传最终项目代码文件                 |
+The system mainly provides a platform for collaborative developers of software projects to facilitate communication and collaborative development between and within projects.
 
 
 
-# zhanwenxu26
+@ Programmer Management: Programmer Basic Information Management, User Log-in and Log-out
 
-| 时间      | 备注                                                     |
-| :-------- | :------------------------------------------------------- |
-| 2019.6.13 | 项目管理模块，更改个人项目和团队项目页面，实现大部分功能 |
-| 2019.6.15 | 项目管理模块，加入信息管理、文件管理页面，实现基本功能   |
-| 2019.6.15 | 项目管理模块，实现删除项目、修改项目信息、添加项目等功能 |
-| 2019.6.16 | 项目管理模块，实现项目信息管理、项目文件管理功能         |
-| 2019.6.17 | 项目管理模块，实现文件权限管理、代码管理模块             |
-| 2019.6.17 | 项目管理模块整合完毕                                     |
-| 2019.6.19 | 项目管理模块，加入项目文件权限管理功能                   |
-| 2019.6.19 | 项目管理模块完成                                         |
+@ Team Management: Team Basic Information Management, Team Membership Management
+
+@ Project Management: Project Basic Information Management, Personal and Team Project Management, Project Document Management
+
+@ Conference Management: Basic Information Management, Personal Conference Management, Conference Document Management
+
+@ Code Management: Code Integration, Code Maintenance
 
 
 
-# jiangxinwei31分支
+![image](https://github.com/zhanwenxun/Project-Collaborative-Development-Platform/blob/master/run-image/image1.png)
 
-|   时间    | 备注                                                         |
-| :-------: | :----------------------------------------------------------- |
-| 2019.6.7  | 主界面欢迎界面修改；主界面团队列表修改；可以看到自己所有团队，且可以进入相对应的团队 |
-| 2019.6.8  | 添加团队，进入相应的团队修正                                 |
-| 2019.6.9  | 用户管理                                                     |
-| 2019.6.10 | 项目整合，用户、团队、会议整合完毕                           |
-| 2019.6.15 | 团队信息更改，成员信息查看，界面优化                         |
-| 2019.6.16 | 团队成员职位修改，session传值修改                            |
-|           |                                                              |
-|           |                                                              |
+![image](https://github.com/zhanwenxun/Project-Collaborative-Development-Platform/blob/master/run-image/image2.png)
 
+![image](https://github.com/zhanwenxun/Project-Collaborative-Development-Platform/blob/master/run-image/image3.png)
 
+![image](https://github.com/zhanwenxun/Project-Collaborative-Development-Platform/blob/master/run-image/image4.png)
 
+![image](https://github.com/zhanwenxun/Project-Collaborative-Development-Platform/blob/master/run-image/image5.png)
 
+![image](https://github.com/zhanwenxun/Project-Collaborative-Development-Platform/blob/master/run-image/image6.png)
 
